@@ -1,0 +1,5 @@
+# For this project the analysis plan is as follows:
+1. Identify geographic clusters of genetic variations using Principal Component Analysis (PCA).
+2. Visualize allele frequency distributions on a world map.
+3. Study correlations between environmental factors (e.g., climate) and genetic diversity.
+4. Use statistical methods or machine learning to find patterns.
